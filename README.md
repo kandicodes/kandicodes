@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is Shreya and I am working on creating some personal projects to learn new programming languages
+- 🔭 I’m currently working on a countdown timer using React
+- 🌱 I’m currently learning React, .NET, C#, Angular, HTML, CSS, and JavaScript
+- 👯 I’m looking to collaborate on more apps.
+- 📫 How to reach me: Ask me for my personal LinkedIn
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can't go a day without coffee! ☕️
 
 <!--
 **kandicodes/kandicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
